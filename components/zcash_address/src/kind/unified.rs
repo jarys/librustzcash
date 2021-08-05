@@ -8,6 +8,7 @@ use zcash_encoding::CompactSize;
 
 pub(crate) mod address;
 mod f4jumble;
+pub(crate) mod ivk;
 
 pub(crate) use address::Address;
 
